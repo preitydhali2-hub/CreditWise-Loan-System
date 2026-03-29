@@ -55,4 +55,6 @@ Build a reliable credit risk prediction model using machine learning techniques
 Analyze key financial factors that influence loan approval decisions
 Reduce the risk of loan defaults for financial institutions
 Support faster and more accurate decision-making in lending processes
-Gain insights from data through visualization and exploratory analysis
+Gain insights from data through visualization and exploratory analysis.
+
+👩‍💻 Author Preity Dhali B.Tech CSE (AIML) GitHub:
