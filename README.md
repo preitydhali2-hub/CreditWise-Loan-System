@@ -57,4 +57,4 @@ Reduce the risk of loan defaults for financial institutions
 Support faster and more accurate decision-making in lending processes
 Gain insights from data through visualization and exploratory analysis.
 
-👩‍💻 Author Preity Dhali B.Tech CSE (AIML) GitHub:
+👩‍💻 Author Preity Dhali B.Tech CSE (AIML) GitHub: https://github.com/preitydhali2-hub/CreditWise-Loan-System.git
